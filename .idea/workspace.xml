@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Clearing all output">
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Output...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mian.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +94,7 @@
       <workItem from="1738498345373" duration="4391000" />
       <workItem from="1738713616512" duration="4854000" />
       <workItem from="1738883172980" duration="4493000" />
+      <workItem from="1739231527756" duration="1882000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -350,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738972621513</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Output...">
+      <option name="closed" value="true" />
+      <created>1739231898222</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1739231898223</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +377,7 @@
     <MESSAGE value="Implementation: Web Interface with Streamlit" />
     <MESSAGE value="..." />
     <MESSAGE value="Clearing all output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clearing all output" />
+    <MESSAGE value="Output..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Output..." />
   </component>
 </project>
