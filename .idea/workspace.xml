@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Output..." />
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="Implementing OOP...&#10;adding JobDescriptionSummarizer class code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,21 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple2015/Documents/MSc/SchoolStuff/NLP/Personal/Job Description (JD) Summarizer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main_oop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/apple2015/Documents/MSc/SchoolStuff/NLP/Personal/Job Description (JD) Summarizer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,7 +96,7 @@
       <workItem from="1738713616512" duration="4854000" />
       <workItem from="1738883172980" duration="4493000" />
       <workItem from="1739231527756" duration="2673000" />
-      <workItem from="1739351109673" duration="537000" />
+      <workItem from="1739351109673" duration="2796000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -374,7 +378,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739391688714</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="....">
+      <option name="closed" value="true" />
+      <created>1739479089938</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739479089938</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Implementing OOP...">
+      <option name="closed" value="true" />
+      <created>1739559527642</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559527642</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Implementing OOP...&#10;adding code for importing and downloading libraries">
+      <option name="closed" value="true" />
+      <created>1739559622600</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559622600</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Implementing OOP...&#10;adding JobDescriptionSummarizer class code">
+      <option name="closed" value="true" />
+      <created>1739559697100</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559697100</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Implementing OOP...&#10;adding JobDescriptionSummarizer class code">
+      <option name="closed" value="true" />
+      <created>1739566560815</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566560815</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,6 +436,13 @@
     <MESSAGE value="..." />
     <MESSAGE value="Clearing all output" />
     <MESSAGE value="Output..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Output..." />
+    <MESSAGE value="...." />
+    <MESSAGE value="Implementing OOP..." />
+    <MESSAGE value="Implementing OOP...&#10;adding code for importing and downloading libraries" />
+    <MESSAGE value="Implementing OOP...&#10;adding JobDescriptionSummarizer class code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing OOP...&#10;adding JobDescriptionSummarizer class code" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Job_Description__JD__Summarizer$main_oop.coverage" NAME="main_oop Coverage Results" MODIFIED="1739566516654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
