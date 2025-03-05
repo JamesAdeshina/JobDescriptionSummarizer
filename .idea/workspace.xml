@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="....">
+      <change afterPath="$PROJECT_DIR$/website_to_file_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_oop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
   "keyToString": {
     "Python.main_oop.executor": "Run",
     "Python.main_oop_ui.executor": "Run",
+    "Python.website_to_file_converter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -101,7 +102,7 @@
       <workItem from="1739351109673" duration="3390000" />
       <workItem from="1739783506533" duration="713000" />
       <workItem from="1740147376748" duration="67000" />
-      <workItem from="1741130608506" duration="1995000" />
+      <workItem from="1741130608506" duration="4206000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -431,7 +432,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739689832048</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Added Streamlit UI for Job Description Summarizer&#10;&#10;- Integrated UI allowing users to input job descriptions via text or file upload (PDF, DOCX, TXT).&#10;- Added functionality for file parsing (PDF, DOCX, TXT formats).&#10;- Displayed extracted keywords and summary of the job description after processing.">
+      <option name="closed" value="true" />
+      <created>1741133381960</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1741133381960</updated>
+    </task>
+    <task id="LOCAL-00043" summary="....">
+      <option name="closed" value="true" />
+      <created>1741133399617</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1741133399617</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,6 +469,7 @@
     <MESSAGE value="Implementing OOP..." />
     <MESSAGE value="Implementing OOP...&#10;adding code for importing and downloading libraries" />
     <MESSAGE value="Implementing OOP...&#10;adding JobDescriptionSummarizer class code" />
+    <MESSAGE value="Added Streamlit UI for Job Description Summarizer&#10;&#10;- Integrated UI allowing users to input job descriptions via text or file upload (PDF, DOCX, TXT).&#10;- Added functionality for file parsing (PDF, DOCX, TXT formats).&#10;- Displayed extracted keywords and summary of the job description after processing." />
     <MESSAGE value="...." />
     <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
@@ -467,6 +485,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Job_Description__JD__Summarizer$website_to_file_converter.coverage" NAME="website_to_file_converter Coverage Results" MODIFIED="1741135308114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Job_Description__JD__Summarizer$main_oop.coverage" NAME="main_oop Coverage Results" MODIFIED="1739566516654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Job_Description__JD__Summarizer$main_oop_ui.coverage" NAME="main_oop_ui Coverage Results" MODIFIED="1741132204110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
