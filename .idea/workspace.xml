@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment="....">
-      <change afterPath="$PROJECT_DIR$/website_to_file_converter.py" afterDir="false" />
+    <list default="true" id="9e83591d-641c-4a8c-90d8-6a652efd8ced" name="Changes" comment=".....">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,7 @@
       <workItem from="1739351109673" duration="3390000" />
       <workItem from="1739783506533" duration="713000" />
       <workItem from="1740147376748" duration="67000" />
-      <workItem from="1741130608506" duration="4206000" />
+      <workItem from="1741130608506" duration="6311000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -448,7 +447,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741133399617</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add functionality to convert websites to PDF, DOCX, and DOC formats&#10;&#10;- Implemented PDF conversion using pdfkit&#10;- Added DOCX conversion with BeautifulSoup and python-docx&#10;- Integrated LibreOffice for DOC conversion from DOCX&#10;- Created a main function to streamline the entire conversion process for a given URL">
+      <option name="closed" value="true" />
+      <created>1741137228576</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1741137228576</updated>
+    </task>
+    <task id="LOCAL-00045" summary=".....">
+      <option name="closed" value="true" />
+      <created>1741137240894</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1741137240894</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +486,9 @@
     <MESSAGE value="Implementing OOP...&#10;adding JobDescriptionSummarizer class code" />
     <MESSAGE value="Added Streamlit UI for Job Description Summarizer&#10;&#10;- Integrated UI allowing users to input job descriptions via text or file upload (PDF, DOCX, TXT).&#10;- Added functionality for file parsing (PDF, DOCX, TXT formats).&#10;- Displayed extracted keywords and summary of the job description after processing." />
     <MESSAGE value="...." />
-    <option name="LAST_COMMIT_MESSAGE" value="...." />
+    <MESSAGE value="Add functionality to convert websites to PDF, DOCX, and DOC formats&#10;&#10;- Implemented PDF conversion using pdfkit&#10;- Added DOCX conversion with BeautifulSoup and python-docx&#10;- Integrated LibreOffice for DOC conversion from DOCX&#10;- Created a main function to streamline the entire conversion process for a given URL" />
+    <MESSAGE value="....." />
+    <option name="LAST_COMMIT_MESSAGE" value="....." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
