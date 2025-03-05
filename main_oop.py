@@ -50,7 +50,6 @@ class JobDescriptionSummarizer:
             "summary": summary
         }
 
-
 # Example usage
 if __name__ == "__main__":
     summarizer = JobDescriptionSummarizer()
